@@ -1,5 +1,6 @@
 
 # Flight Data Exploration and Preprocessing
+![Flight Data EDA](image.jpg)
 
 ## Overview
 This repository contains a project that dives deep into a flight dataset to explore, understand, and preprocess the data for future machine learning tasks. We cover a wide range of techniques, from Exploratory Data Analysis (EDA) to various preprocessing methods, preparing the dataset for subsequent modeling.
@@ -16,9 +17,11 @@ The objectives of the project are as follows:
   - Bivariate Analysis
   - Multivariate Analysis
 3. __Data Preprocessing__: Prepare the data for future machine learning tasks.
+  - Irrelevant Features Removal
   - Missing Value Treatment
   - Outlier Treatment
   - Encoding Categorical Features
+  - Time Feature Transformation
   - Feature Scaling
   - Transforming Skewed Features
 
