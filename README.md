@@ -1,5 +1,6 @@
 
 # Flight Data Exploration and Preprocessing
+![Alternate Text]([URL_or_Path_to_Image](https://github.com/FarzadNekouee/Flight-EDA-to-Preprocessing/blob/master/image.jpg))
 
 ## Overview
 This repository contains a project that dives deep into a flight dataset to explore, understand, and preprocess the data for future machine learning tasks. We cover a wide range of techniques, from Exploratory Data Analysis (EDA) to various preprocessing methods, preparing the dataset for subsequent modeling.
