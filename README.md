@@ -12,15 +12,15 @@ The objectives of the project are as follows:
 
 1. __Data Understanding__: Familiarize ourselves with the dataset and its features.
 2. __Exploratory Data Analysis (EDA)__: Unveil patterns, trends, and relationships between different features.
-  - Univariate Analysis
-  - Bivariate Analysis
-  - Multivariate Analysis
+   - Univariate Analysis
+   - Bivariate Analysis
+   - Multivariate Analysis
 3. __Data Preprocessing__: Prepare the data for future machine learning tasks.
-  - Missing Value Treatment
-  - Outlier Treatment
-  - Encoding Categorical Features
-  - Feature Scaling
-  - Transforming Skewed Features
+   - Missing Value Treatment
+   - Outlier Treatment
+   - Encoding Categorical Features
+   - Feature Scaling
+   - Transforming Skewed Features
 
 ## Dataset
 The flight dataset includes information about flights, their schedules, delays, and other relevant details. The features of the dataset are as follows:
@@ -47,7 +47,7 @@ The flight dataset includes information about flights, their schedules, delays, 
 - __time_hour__: The scheduled departure time of the flight (formatted as "yyyy-mm-dd hh:mm:ss").
 - __name__: The full name of the airline carrier.
 
-You can find the flight dataset here.
+You can find the flight dataset [here](https://github.com/FarzadNekouee/Flight-EDA-to-Preprocessing/blob/master/flights.csv).
 
 ## File Descriptions
 - `flight_data_exploration_and_preprocessing.ipynb`: Jupyter notebook containing all the data exploration, visualization, and preprocessing code.
