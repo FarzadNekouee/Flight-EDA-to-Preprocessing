@@ -1,6 +1,5 @@
 
 # Flight Data Exploration and Preprocessing
-![Flight Data EDA](image.jpg)
 
 ## Overview
 This repository contains a project that dives deep into a flight dataset to explore, understand, and preprocess the data for future machine learning tasks. We cover a wide range of techniques, from Exploratory Data Analysis (EDA) to various preprocessing methods, preparing the dataset for subsequent modeling.
